@@ -8,4 +8,6 @@ Hehe I'm Learning Git.
 
 
 I am  fixing this bug.
-I am ingesting big data
+I am ingesting big data.
+This is the master branch trying to create a conflict to test the rebase in git.
+Learning Never Ends.
