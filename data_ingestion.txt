@@ -4,13 +4,11 @@ Hehe I'm Learning Git.
 
 I am  fixing this bug.
 I am ingesting big data.
+
 This is the master branch trying to create a conflict to test the rebase in git.
 Learning Never Ends.
 
-Adding more data for the conflict.
-
-This is the master branch trying to create a conflict to test the rebase in git.
+This is the rebase_conflict branch trying to create a conflict to test the rebase in git.
 Learning Never Ends.Learning Never Ends.Learning Never Ends.Learning Never Ends.
 
-This is the Rebase conflict branch trying to create a conflict to test the rebase in git.
-Learning Never Ends.Learning Never Ends.Learning Never Ends.
+Adding more data for the conflict
